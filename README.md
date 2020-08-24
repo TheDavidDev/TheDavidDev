@@ -3,7 +3,7 @@
 -->
 ![dino](https://user-images.githubusercontent.com/51863978/91017931-2a6dba00-e5ef-11ea-9546-21130b69a6b8.gif)
 
-### Hi there 👋 I am *[David](https://TheDavidDev.github.io)
+### Hi there 👋 I am [David](https://TheDavidDev.github.io)
 
 You have finally discovered my **Github** profile. **Welcome** <br>
 Please feel free to **clone** projects and **raise** issues if you think something could be better.
