@@ -5,7 +5,7 @@
 
 ### Hi there 👋 I am [David](https://TheDavidDev.github.io)
 
-You have finally discovered my **Github** profile. **Welcome** <br>
+You have finally discovered my **Github** profile. **Welcome.** <br>
 Please feel free to **clone** projects and **raise** issues if you think something could be better.
 
 Happy Coding! 😊
