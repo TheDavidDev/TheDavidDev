@@ -5,16 +5,7 @@
 
 ### Hi there 👋 I am [David](https://TheDavidDev.github.io)
 
-<a href="https://www.linkedin.com/in/TheDavidDev/">
-  <img align="left" alt="TheDavidDev LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-</a>
-<br>
-<br>
-<div><p>Profile overview: </p></div>
-</br>
-</br>
 
 <br>
 <br>
@@ -51,9 +42,14 @@
 <br>
 <br>
 <br>
+<br>
 
 
-
+### Check my stats:
+</br>
+</br>
+</br>
+</br>
 
 ![TheDavidDev's github stats](https://github-readme-stats.vercel.app/api?username=TheDavidDev&show_icons=true)
 
