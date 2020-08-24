@@ -48,13 +48,12 @@
 ### Check my stats:
 </br>
 </br>
-</br>
-</br>
 
 ![TheDavidDev's github stats](https://github-readme-stats.vercel.app/api?username=TheDavidDev&show_icons=true)
 
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDavidDev.TheDavidDev)
+ 
  
  🌱 Learning all about **Open Source** for a better world.
 
