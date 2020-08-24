@@ -3,7 +3,13 @@
 -->
 ![dino](https://user-images.githubusercontent.com/51863978/91017931-2a6dba00-e5ef-11ea-9546-21130b69a6b8.gif)
 
-### Hi there 👋 I am [David](https://TheDavidDev.github.io)
+### Hi there 👋 I am *[David](https://TheDavidDev.github.io)
+
+You have finally discovered my **Github** profile. **Welcome** <br>
+Please feel free to **clone** projects and **raise** issues if you think something could be better.
+
+Happy Coding! 😊
+
 
 
 
@@ -26,7 +32,7 @@
 <code><a href="https://www.githublab.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
 <code><a href="https://node.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
-<code><a href="https://netlify.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"></a></code>
+<code><a href="https://netlify.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></a></code>
 <code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
 <code><a href="https://gatsby.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></a></code>
 <code><a href="https://php.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
@@ -38,6 +44,7 @@
 <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
 <code><a href="https://graphql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a></code>
 
+🌱 Learning all about **Open Source** for a better world.
 
 <br>
 <br>
@@ -52,9 +59,9 @@
 ![TheDavidDev's github stats](https://github-readme-stats.vercel.app/api?username=TheDavidDev&show_icons=true)
 
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDavidDev.TheDavidDev)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDavidDev.TheDavidDev)   [![GitHub followers](https://img.shields.io/github/followers/thedaviddev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/thedaviddev?tab=followers)
  
  
- 🌱 Learning all about **Open Source** for a better world.
+ 
 
 ⭐️ From [David](https://github.com/TheDavidDev)
