@@ -35,6 +35,7 @@ Happy Coding! 😊
 <code><a href="https://netlify.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></a></code>
 <code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
 <code><a href="https://gatsby.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></a></code>
+<code><a href="https://firebase.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
 <code><a href="https://php.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
 <code><a href="https://www.figma.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
 <code><a href="https://www.glitch.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/glitch/glitch-ar21.svg"></a></code>
