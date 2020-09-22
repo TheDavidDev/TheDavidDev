@@ -45,7 +45,7 @@ Happy Coding! 😊
 <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
 <code><a href="https://graphql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a></code>
 
-🌱 Learning all about **Open Source** for a better world.
+> 🌱 Learning all about **Open Source** for a better world.
 
 <br>
 <br>
