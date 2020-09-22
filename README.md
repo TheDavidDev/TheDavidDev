@@ -11,6 +11,8 @@ Happy Coding! 😊
 <code><a href="https://vscode/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 <code><a href="https://javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://typography.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typography/typography-ar21.svg"></a></code>
+
 <code><a href="https://npm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></a></code>
 <code><a href="https://node.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
 <code><a href="https://gatsby.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></a></code>
