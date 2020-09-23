@@ -12,11 +12,13 @@ Happy Coding! 😊
 <code><a href="https://javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://typography.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
-
-<code><a href="https://node.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-<code><a href="https://gatsby.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></a></code>
-<code><a href="https://firebase.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
 <code><a href="https://axios.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"></a></code>
+<code><a href="https://node.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+
+<code><a href="https://firebase.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
+<code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a></code>
+<code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg
+"></a></code>
 
 >> 🌱 Learning all about **Open Source** for a better world.
 
