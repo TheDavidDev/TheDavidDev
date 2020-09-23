@@ -17,7 +17,7 @@ Happy Coding! 😊
 
 <code><a href="https://firebase.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
-<code><a href="https://netlify.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg
+<code><a href="https://www.netlify.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg
 "></a></code>
 
 >> 🌱 Learning all about **Open Source** for a better world.
