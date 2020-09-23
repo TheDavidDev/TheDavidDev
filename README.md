@@ -8,17 +8,17 @@
 
 Happy Coding! 😊
 
-<code><a href="https://vscode/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-<code><a href="https://javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://vscode/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
+<code><a href="https://javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://typography.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
-<code><a href="https://axios.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"></a></code>
-<code><a href="https://node.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-
+<code><a href="https://sass-lang.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></a></code>
+<br></br>
+<code><a href="https://gnu.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></a></code>
+<code><a href="https://node.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://firebase.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
-<code><a href="https://www.netlify.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg
-"></a></code>
+<code><a href="https://www.netlify.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"></a></code>
 
 >> 🌱 Learning all about **Open Source** for a better world.
 
